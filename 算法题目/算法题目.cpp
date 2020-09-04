@@ -1,7 +1,7 @@
 ﻿
 /*
  * 编码：带有BOM的UTF-8
- * 计科04 吴会昕
+ * 
  */
 
 #include <iostream>
